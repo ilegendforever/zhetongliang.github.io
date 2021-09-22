@@ -12,13 +12,12 @@ redirect_from:
   <img src="https://caozhangjie.github.io/files/caozhangjie_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p> -->
 
-I am a PhD candidate in the Department of Computing, The Hong Kong Polytechnic University (PolyU), advised by [Prof. Lei Zhang](https://scholar.google.co.uk/citations?user=tAK5l1IAAAAJ&hl=en&oi=ao). 
-I received my Bachelor’s and Master's degrees in [South China University of Technology](http://www.scut.edu.cn/), under the supervision of [Prof. Kui Jia](https://scholar.google.co.uk/citations?user=Mf9VHRcAAAAJ&hl=en&oi=ao).
-Now I also work as a Research Intern in DAMO Academy, Alibaba.  Email: csybzhang[at]comp.polyu.edu.hk
+Zhetong Liang is a senior algorithm engineer at DAMO Academy, Alibaba, based in Shenzhen.
 
+He got his Ph.D. degree from Department of Computing, The Hong Kong Polytechnic University ([PolyU](https://www.comp.polyu.edu.hk/)), supervised by [Prof. Lei Zhang](https://scholar.google.co.uk/citations?user=tAK5l1IAAAAJ&hl=en&oi=ao). Previously, He received the master's degree from [South China University of Technology](http://www.scut.edu.cn/) in 2016.
 
-My current research interests include transfer learning, semi-supervised learning, and computer vision. 
-More specifically, I am working on the problem of domain adaptation. I also have experiences on few-shot learning and fine-grained visual categorization.
+His research experience includes deep-learning-based computational photography and image processing, such as image denoising and HDR imaging. He is currently working on bringing AI power to industry world.
+
 
 <h1>Preprints</h1>
 
