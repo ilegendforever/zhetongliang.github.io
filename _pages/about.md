@@ -22,7 +22,7 @@ His research experience includes deep-learning-based computational photography a
 <h1>Conference Paper</h1>
 
 <b>[HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset](https://arxiv.org/pdf/2103.14943.pdf)</b> 
-<b>Guanying Chen</b>, Chaofeng Chen, Shi Guo, <br> Zhetong Liang, Kwan-Yee K. Wong and Lei Zhang. <i>International Conference of Computer Vision (ICCV), 2021.</i> 
+<br> Guanying Chen, Chaofeng Chen, Shi Guo, <b>Zhetong Liang</b>, Kwan-Yee K. Wong and Lei Zhang. <i>International Conference of Computer Vision (ICCV), 2021.</i> 
 
 <b>[A Decoupled Learning Scheme for Real-world Burst Denoising from Raw Images](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700154.pdf)</b> 
 <br> <b>Zhetong Liang</b>, Shi Guo, Hong Gu, Huaqi Zhang and Lei Zhang. <i>European Conferenceon Computer Vision (ECCV), 2020.</i>  
