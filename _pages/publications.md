@@ -5,7 +5,6 @@ author_profile: true
 ---
 
 
-
 ## Conference Paper
 
 <b>[HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset](https://arxiv.org/pdf/2103.14943.pdf)</b> Guanying Chen, Chaofeng Chen, Shi Guo, <br> <b>Zhetong Liang</b>\*, Kwan-Yee K. Wong and Lei Zhang. <i>International Conference of Computer Vision (ICCV), 2021.</i> 
@@ -19,4 +18,8 @@ author_profile: true
 
 <b>[Joint Denoising and Demosaicking with Green Channel Prior for Real-world Burst Images](http://www4.comp.polyu.edu.hk/~cslzhang/paper/JDD-TIP.pdf)</b> Shi Guo, <br> <b>Zhetong Liang</b>\*, and Lei Zhang. <i> IEEE Transactions on Image Processing (TIP), 2021.</i> 
 
-<b>Contrast Enhancement by Nonlinear Diffusion Filtering</b> <br> <b>Zhetong Liang</b>\*, Weijian Liu, and Ruohe Yao. <i> IEEE Transactions on Image Processing (TIP), 2016.</i> 
+<b>[CameraNet: A Two-Stage Framework for Effective Camera ISP Learning](http://www4.comp.polyu.edu.hk/~cslzhang/paper/CameraNet.pdf)</b> <br> <b>Zhetong Liang</b>\*, Jianrui Cai, Zisheng Cao, and Lei Zhang. <i> IEEE Transactions on Image Processing (TIP), 2021.</i> 
+
+<b>[A Benchmark for Edge-Preserving Image Smoothing](http://www4.comp.polyu.edu.hk/~cslzhang/paper/19_TIP_EPS.pdf)</b> Feida Zhu, <br> <b>Zhetong Liang</b>\*, Xixi Jia, Lei Zhang and Yizhou Yu. <i> IEEE Transactions on Image Processing (TIP), 2019.</i> 
+
+<b>[Contrast Enhancement by Nonlinear Diffusion Filtering](https://ieeexplore.ieee.org/abstract/document/7352346?casa_token=onQrFrq2FtgAAAAA:gZUxh5HyKZKZbCnR975tBEuKmXnQ-WXt3A7F2abX7-9mvrlkxxmYTJSJFWTE7GrM0TjGK5uqFQ)</b> <br> <b>Zhetong Liang</b>\*, Weijian Liu, and Ruohe Yao. <i> IEEE Transactions on Image Processing (TIP), 2016.</i> 
