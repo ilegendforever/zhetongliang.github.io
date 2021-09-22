@@ -19,4 +19,4 @@ author_profile: true
 
 <b>[Joint Denoising and Demosaicking with Green Channel Prior for Real-world Burst Images](http://www4.comp.polyu.edu.hk/~cslzhang/paper/JDD-TIP.pdf)</b> Shi Guo, <br> <b>Zhetong Liang</b>\*, and Lei Zhang. <i> IEEE Transactions on Image Processing (TIP), 2021.</i> 
 
-<b>[Contrast Enhancement by Nonlinear Diffusion Filtering]</b> <br> <b>Zhetong Liang</b>\*, Weijian Liu, and Ruohe Yao. <i> IEEE Transactions on Image Processing (TIP), 2016.</i> 
+<b>Contrast Enhancement by Nonlinear Diffusion Filtering</b> <br> <b>Zhetong Liang</b>\*, Weijian Liu, and Ruohe Yao. <i> IEEE Transactions on Image Processing (TIP), 2016.</i> 
