@@ -32,13 +32,13 @@ His research experience includes deep-learning-based computational photography a
 <h1>Journal Paper</h1>
 
 <b>[Joint Denoising and Demosaicking with Green Channel Prior for Real-world Burst Images](http://www4.comp.polyu.edu.hk/~cslzhang/paper/JDD-TIP.pdf)</b> 
-<b>Shi Guo</b>, <br> Zhetong Liang, and Lei Zhang. <i> IEEE Transactions on Image Processing (TIP), 2021.</i> 
+<br> Shi Guo, <b>Zhetong Liang</b>, and Lei Zhang. <i> IEEE Transactions on Image Processing (TIP), 2021.</i> 
 
 <b>[CameraNet: A Two-Stage Framework for Effective Camera ISP Learning](http://www4.comp.polyu.edu.hk/~cslzhang/paper/CameraNet.pdf)</b> 
 <br> <b>Zhetong Liang</b>, Jianrui Cai, Zisheng Cao, and Lei Zhang. <i> IEEE Transactions on Image Processing (TIP), 2021.</i> 
 
 <b>[A Benchmark for Edge-Preserving Image Smoothing](http://www4.comp.polyu.edu.hk/~cslzhang/paper/19_TIP_EPS.pdf)</b> 
-<b>Feida Zhu</b>, <br> <b>Zhetong Liang, Xixi Jia, Lei Zhang and Yizhou Yu. <i> IEEE Transactions on Image Processing (TIP), 2019.</i> 
+<br> Feida Zhu, <b>Zhetong Liang</b>, Xixi Jia, Lei Zhang and Yizhou Yu. <i> IEEE Transactions on Image Processing (TIP), 2019.</i> 
 
 <b>[Contrast Enhancement by Nonlinear Diffusion Filtering](https://ieeexplore.ieee.org/abstract/document/7352346?casa_token=onQrFrq2FtgAAAAA:gZUxh5HyKZKZbCnR975tBEuKmXnQ-WXt3A7F2abX7-9mvrlkxxmYTJSJFWTE7GrM0TjGK5uqFQ)</b> 
 <br> <b>Zhetong Liang</b>, Weijian Liu, and Ruohe Yao. <i> IEEE Transactions on Image Processing (TIP), 2016.</i> 
